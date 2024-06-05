@@ -25,14 +25,12 @@ export default function Faq() {
         </div>
         <div>
           <TitleItem>{t('2.question')}</TitleItem>
-          <ContentItem>{t('2.answer-1')}</ContentItem>
-          <ContentItem>{t('2.answer-2')}</ContentItem>
-          <ContentItem>{t('2.answer-3')}</ContentItem>
+          <ContentItem>{t('2.answer')}</ContentItem>
+
         </div>
         <div>
           <TitleItem>{t('3.question')}</TitleItem>
-          <ContentItem>{t('3.answer-1')}</ContentItem>
-          <ContentItem>{t('3.answer-2')}</ContentItem>
+          <ContentItem>{t('3.answer')}</ContentItem>
         </div>
         <div>
           <TitleItem>{t('4.question')}</TitleItem>
@@ -46,10 +44,10 @@ export default function Faq() {
           <TitleItem>{t('6.question')}</TitleItem>
           <ContentItem>{t('6.answer')}</ContentItem>
         </div>
-        {/* <div>
+        {<div>
           <TitleItem>{t('7.question')}</TitleItem>
           <ContentItem>{t('7.answer')}</ContentItem>
-        </div> */}
+        </div> }
         <div>
           <TitleItem>{t('8.question')}</TitleItem>
           <ContentItem>{t('8.answer')}</ContentItem>

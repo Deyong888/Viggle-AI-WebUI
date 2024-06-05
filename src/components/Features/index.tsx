@@ -9,7 +9,7 @@ const Features = () => {
         <div className="container">
           <SectionTitle
             title="Main Features"
-            paragraph="There are many variations of passages of Lorem Ipsum available but the majority have suffered alteration in some form."
+            paragraph="Viggle AI allows users to craft stunning visual effects with ease, merging movement patterns from video clips with static images to create unique animations."
             center
           />
 

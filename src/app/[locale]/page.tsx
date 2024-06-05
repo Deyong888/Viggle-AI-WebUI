@@ -14,6 +14,7 @@ import { Metadata } from 'next';
 import { getTranslations } from 'next-intl/server';
 import Faq from '@/components/Faq';
 import Workground from '@/components/Workground';
+import SeoScript from '@/components/seo/SeoScript';
 
 export async function generateMetadata(): Promise<Metadata> {
   const t = await getTranslations('Metadata.home');
@@ -46,6 +47,7 @@ export default function Home() {
       {/* <Pricing /> */}
       {/*  <Blog /> */}
       {/* <Contact /> */}
+      {<SeoScript />}
     </>
   );
 }

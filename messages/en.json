@@ -36,8 +36,8 @@
     }
   },
   "Footer": {
-    "content": "Generate the controllable motion video with Viggle AI Video.",
-    "rights": "2024 viggle ai video. All rights reserved.",
+    "content": "Generate the controllable motion video with Viggle AI .",
+    "rights": "2024 viggle ai . All rights reserved.",
     "usefulLinks": {
       "title": "Feature Links",
       "about": "About"
@@ -83,8 +83,8 @@
       "answer": "While there may be different tiers of access or features that come at a cost, Viggle AI also offers a free trial or basic access to allow users to explore the platform."
     },
     "8": {
-      "question": "Can I collaborate with others using Viggle AI?",
-      "answer": "The integration with Discord makes collaboration easy, allowing multiple users to work together on projects in real-time."
+      "question": "Is there any limit on using Viggle AI?",
+      "answer": "Due to server capacity limits, you can create a maximum of 2 generations at peak times.  We are constantly optimizing the Viggle production experience for all users."
     },
     "9": {
       "question": "How does Viggle AI ensure the quality of animations?",
@@ -136,9 +136,9 @@
   },
   "Metadata": {
     "home": {
-      "title": "viggle ai video - Generate the controllable motion video.",
-      "description": "Visit viggle ai video for the first video-3d foundation model with actual physics understanding, starting from making any character move as you want.",
-      "keywords": "viggle ai video, motion video, viggle ai"
+      "title": "viggle ai animation - Generate the controllable motion video.",
+      "description": "Visit viggle ai animation for the first video-3d foundation model with actual physics understanding, starting from making any character move as you want.",
+      "keywords": "viggle ai animation, motion video, viggle ai"
     },
     "about": {
       "title": "viggle ai video about page",

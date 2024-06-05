@@ -37,9 +37,9 @@ export default function Home() {
       {/* <Video /> */}
       {/* <Brands /> */}
       <HomeSessionVideo />
+      <Workground />
       <AboutSectionOne />
       <AboutSectionTwo />
-      <Workground />
       { <Features /> }
       <Faq />
       {/* <Testimonials /> */}

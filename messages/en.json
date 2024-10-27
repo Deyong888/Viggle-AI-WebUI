@@ -2,7 +2,9 @@
   "Home": {
     "title": "Viggle AI ",
     "description": "  Explore the revolutionary world of Viggle AI, the cutting-edge platform that empowers creators to bring their characters to life with unparalleled ease.",
-    "join": "Join viggle ai"
+    "join": "Join viggle ai",
+    "sudoku": "Play Sudoku Game",
+    "vikings": "Play Vikings Game"
   },
   "About": {
     "title": "About Us",

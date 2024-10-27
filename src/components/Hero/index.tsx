@@ -28,6 +28,22 @@ const Hero = () => {
                     {t('join')}
                   </Link>
                 </div>
+
+                <div className="flex flex-col items-center justify-center space-y-4 sm:flex-row sm:space-x-4 sm:space-y-0 mt-4">  {/* 添加 mt-4 以增加按钮之间的间距 */}
+                  <Link
+                    href="https://sudoku.viggle.fun"
+                    className="rounded-sm bg-primary px-8 py-4 text-base font-semibold text-white duration-300 ease-in-out hover:bg-primary/80"
+                  >
+                    {t('sudoku')}
+                  </Link>
+                  <Link
+                    href="https://clashofvikings.viggle.fun"
+                    className="rounded-sm bg-primary px-8 py-4 text-base font-semibold text-white duration-300 ease-in-out hover:bg-primary/80"
+                  >
+                    {t('vikings')}
+                  </Link>
+                </div>
+
               </div>
             </div>
           </div>
